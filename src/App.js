@@ -13,6 +13,7 @@ function tick() {
       <h2>It is {new Date().toLocaleTimeString()}.</h2>
     </div>
   );
+return element
 }
 
 class App extends Component {
