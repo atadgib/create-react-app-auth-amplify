@@ -18,7 +18,7 @@ return element
 
 class App extends Component {
   render() {
-    return ( setInterval(tick,1000)    );
+    return ( tick()    );
   }
 }
 
